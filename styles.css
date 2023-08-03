@@ -1,4 +1,6 @@
-/* Välj lämplig selektor och styla det som är angett! Skriv endast här i CSS dokumentet, ändra inte i HTML-dokumentet!*/
+/* Välj lämplig selektor och styla det som är angett! Skriv endast här i CSS dokumentet, ändra inte i HTML-dokumentet!
+När du är klar kan du testa genom att ändra länken i index.html från "styles.css" till "facit.css".
+*/
 
 /* 1. Ge alla element på sidan en 'box-sizing: border-box;' */
 
@@ -30,7 +32,7 @@
 /* 10. Alla <p> och <div> ska ha färgen svart #000*/
 
 
-/* 11. Alla  <p> som ligger nästladee (inuti) en div ska ha font-size: 22px*/
+/* 11. Alla  <p> som ligger nästlade (inuti) en div ska ha font-size: 22px*/
 
 
 /* 12. Ge alla em i den fjärde div-en med class="fourth" en 'text-docration: underline;*/

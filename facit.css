@@ -31,7 +31,7 @@ ul li {
 
 /* 6. Alla p ska ha en gul bakgrundsfärg*/
 p {
-    background-color: yellow;
+    background-color: rgb(245, 245, 143);
 }
 
 
@@ -102,24 +102,3 @@ input[type="checkbox"]:checked {
     margin-left: 50px;
 }
 
-.container > p {
-    font-weight: 700;
-}
-
-ul li:first-child {
-    font-size: 20px;
-    color: #93f;
-} 
-
-.third h2 + p {
-    color: blue;
-}
-
-.third h2 ~ p {
-    color: #fff;
-}
-
-.container > p:nth-of-type(2) {
-    font-size: 32px;
-    color: red;
-}
